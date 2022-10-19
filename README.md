@@ -8,6 +8,6 @@ def flatten(x):
 
 x = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 
-flat_liste=[]
-flatten(x)
-print(flat_liste)
+flat_liste=[] \n
+flatten(x) \n
+print(flat_liste) \n
